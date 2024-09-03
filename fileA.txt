@@ -1,3 +1,8 @@
+local changes <<<<<<< HEAD
 The changes made in fileA.txt. The wrong steps are removed.
+=======
+The changes made in fileA successfully
+Made changes in file on production 
+remote changes >>>>>>> 0b28ff12dafa29421bcb625026c8cfd66489bfc1
 
 
